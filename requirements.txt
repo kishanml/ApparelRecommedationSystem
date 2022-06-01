@@ -1,0 +1,10 @@
+charset_normalizer==2.0.4
+matplotlib==3.5.2
+numpy==1.21.5
+opencv_python==4.5.5.64
+Pillow==9.1.1
+pixellib==0.7.1
+scikit_learn==1.1.1
+streamlit==1.9.0
+tensorflow==2.0.0
+tqdm==4.48.2
