@@ -3,7 +3,7 @@
 <h2>Author: KISHAN MISHRA</h2>
 <ul>
 <li>Built a deep learning based apparel recommendation system on Myntra Dataset.
-<li>Built using ResNet-50, OpenCV, KNN algorithm and streamlit.
+<li>Built using ResNet-50 architecture, OpenCV, KNN algorithm and streamlit.
 </ul>
 TEST RESULTS
 
